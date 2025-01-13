@@ -91,7 +91,12 @@
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=YashRajcode04&show_icons=true&locale=en" alt="YashRajcode04" /></p>
 </div>
 <div align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashRajcode04&" alt="YashRajcode04" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashRajcode04&" alt="Streakstats" /></p>
 </div>
 
+<div align="center">
+  
+   ![snake gif](https://github.com/YashRajcode04/YashRajcode04/blob/output/github-snake-dark.svg)
+
+</div>
 <img align="right" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="YashRajcode04" />
